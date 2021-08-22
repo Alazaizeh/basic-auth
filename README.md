@@ -9,7 +9,7 @@
 
 
 ### Main Branch
-https://omar-api-server.herokuapp.com
+https://omar-basic-auth.herokuapp.com/
 ### Pull request
 https://github.com/Omx302/basic-auth/pull/1
 ### Github actions
